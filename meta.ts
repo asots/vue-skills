@@ -20,4 +20,6 @@ export const manual = [
   'antfu',
   'antfu-create-pr',
   'antfu-issue-triage',
+  'antfu-query',
+  'antfu-simplify',
 ]
